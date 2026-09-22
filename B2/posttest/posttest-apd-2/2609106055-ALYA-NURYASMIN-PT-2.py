@@ -25,18 +25,18 @@ banyak_Data = [skincare_1, skincare_2, skincare_3, skincare_4, skincare_5, skinc
 
 print(banyak_Data) 
 
-rata_rata = total_pengeluaran / (len(banyak_Data))
-
-print(rata_rata)
-
 nim = 55
 
 print(nim)
 
-bolean = nim < rata_rata
-
-print(bolean)
-
 kurs_JPY = 2924
 
 print(kurs_JPY)
+
+rata_rata = total_pengeluaran / (len(banyak_Data))
+
+print(rata_rata)
+
+bolean = nim < rata_rata
+
+print(bolean)
