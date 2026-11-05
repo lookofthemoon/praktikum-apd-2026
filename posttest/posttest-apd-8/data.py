@@ -1,5 +1,4 @@
 pengguna = {"Alya": "055", "Al": "lookofthemoon"}
-
 koleksi = {
     "Album IVE": [
         "I've IVE I Ver.",
